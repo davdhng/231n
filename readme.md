@@ -1,0 +1,1 @@
+kinda following the CS231n assignments but not really
