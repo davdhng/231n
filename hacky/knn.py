@@ -1,6 +1,4 @@
-import random
 import numpy as np
-import csv
 
 class NearestNeighbor(object):
     def __init__(self):
